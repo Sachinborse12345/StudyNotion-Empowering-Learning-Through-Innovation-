@@ -1,0 +1,61 @@
+Course Name,Course Description,Price,Category,Skills that will be taught
+
+JavaScript,Master JavaScript with ES6 concepts asynchronous programming and web development,1,Web Development,JavaScript DOM API HTML CSS 
+
+React, Build modern web applications using React.js including hooks state management and APIs,10,Web Development,JavaScript React Redux HTML CSS
+
+ML,Learn the fundamentals of Machine Learning including algorithms model training and real-world applications,1,Artificial Intelligence,Maths Statistics Calculus Python
+
+PHP,Learn PHP from basics to advanced covering syntax functions databases and web development with hands-on projects,1,Web Development,HTML CSS
+
+Data Analyst,Master the fundamentals of Data Analysis with hands-on projects and real-world applications,1000,Data Science,Python SQL Excel Power BI
+
+Full-Stack Development,Master front-end and back-end development using MERN stack,100,Web Development,JavaScript Node.js React MongoDB
+
+SQL,Learn how to query and manipulate data efficiently using SQL,40,Data Science,SQL Database Query Optimization
+
+Python,Learn Python from basics to advanced covering syntax data structures OOP and real-world applications,10,Programming,Python OOP Data Structures Automation
+
+Java,Master Java programming including OOP multithreading and web development,15,Programming,Java OOP Spring Boot
+
+Deep Learning,Explore neural networks CNNs RNNs and transformers for AI applications,50,Artificial Intelligence,Python PyTorch TensorFlow Maths Calculus
+
+Android Development,Learn to build Android apps with Java and Kotlin from scratch,20,Mobile Development,Java Kotlin Android Studio
+
+Django,Build full-stack web applications with Django and PostgreSQL,10,Web Development,Python Django SQL
+
+Artificial Intelligence,Understand AI concepts including search planning and reinforcement learning,200,Artificial Intelligence,Python AI ML Algorithms
+
+R Programming,Learn R for statistical computing and data visualization,20,Data Science,R ggplot2 Statistics
+
+Node.js,Learn back-end development with Node.js Express and MongoDB,50,Web Development,JavaScript Node.js Express MongoDB
+
+NLP with Python,Explore Natural Language Processing techniques using Python and real-world applications,120,Artificial Intelligence,Python NLP Transformers Text Processing
+
+Data Wrangling,Master data cleaning and preprocessing techniques for data analysis and machine learning,80,Data Science,Pandas NumPy SQL Python
+
+C,Learn the fundamentals of C programming memory management and pointers,5,Programming,C Pointers Memory Management
+
+Swift,Learn Swift programming for iOS app development,25,Programming,Swift Xcode UI Design
+
+TypeScript,Enhance JavaScript skills with TypeScript for scalable front-end and back-end development,20,Programming,TypeScript JavaScript Static Typing
+
+Kotlin,Master Kotlin for Android app development and backend applications,35,Programming,Kotlin Android Spring Boot
+
+Advanced ML,Master advanced machine learning techniques including ensemble learning and hyperparameter tuning,150,Artificial Intelligence,Python DeepLearning Optimization
+
+Data Engineering,Understand data pipelines ETL and big data processing,120,Data Science,Python SQL BigData
+
+iOS Development,Build iOS applications using Swift and UIKit from scratch,80,Mobile Development,Swift UIKit AppDevelopment
+
+Advanced Java,Deep dive into Java covering JVM internals reflection and concurrency,60,Programming,Java JVM Concurrency
+
+Big Data Analytics,Analyze large-scale datasets using Hadoop Spark and distributed computing,140,Data Science,Spark Hadoop BigData
+
+Mobile UI UX Design,Learn principles of UI UX design for mobile applications,85,Mobile Development,UIUX Design Prototyping
+
+Reinforcement Learning with Python,Learn Reinforcement Learning concepts including Q-learning and policy gradients,170,Artificial Intelligence,Python ReinforcementLearning DeepLearning
+
+AI Ethics,Understand ethical considerations in AI fairness bias and accountability,70,Artificial Intelligence,AI Ethics ResponsibleAI
+
+React Native,Develop cross-platform mobile applications using React Native,105,Mobile Development,ReactNative JavaScript MobileDevelopment

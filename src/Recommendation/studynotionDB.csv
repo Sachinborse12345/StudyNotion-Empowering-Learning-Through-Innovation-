@@ -1,0 +1,89 @@
+Course Name,Course Description,Price,Category,Skills that will be taught
+
+ML,Learn the fundamentals of Machine Learning including algorithms model training and real-world applications,1,Artificial Intelligence,Maths Statistics Calculus Python
+
+PHP,Learn PHP from basics to advanced covering syntax functions databases and web development with hands-on projects,1,Web Development,HTML CSS
+
+Data Analyst,Master the fundamentals of Data Analysis with hands-on projects and real-world applications,1000,Data Science,Python SQL Excel Power BI
+
+Deep Learning,Explore neural networks CNNs RNNs and transformers for AI applications,50,Artificial Intelligence,Python PyTorch TensorFlow Maths Calculus
+
+JavaScript,Master JavaScript with ES6 concepts asynchronous programming and web development,1,Web Development,JavaScript DOM API HTML CSS 
+
+React, Build modern web applications using React.js including hooks state management and APIs,10,Web Development,JavaScript React Redux HTML CSS
+
+Android Development,Learn to build Android apps with Java and Kotlin from scratch,20,Mobile Development,Java Kotlin Android Studio
+
+Django,Build full-stack web applications with Django and PostgreSQL,10,Web Development,Python Django SQL
+
+Artificial Intelligence,Understand AI concepts including search planning and reinforcement learning,200,Artificial Intelligence,Python AI ML Algorithms
+
+Power BI,Learn data visualization and reporting with Power BI for business intelligence,50,Data Science,Power BI DAX Data Visualization
+
+TensorFlow,Master deep learning with TensorFlow for image and NLP applications,100,Artificial Intelligence,TensorFlow Keras Python
+
+R Programming,Learn R for statistical computing and data visualization,20,Data Science,R ggplot2 Statistics
+
+Full-Stack Development,Master front-end and back-end development using MERN stack,100,Web Development,JavaScript Node.js React MongoDB
+
+Node.js,Learn back-end development with Node.js Express and MongoDB,50,Web Development,JavaScript Node.js Express MongoDB
+
+NLP with Python,Explore Natural Language Processing techniques using Python and real-world applications,120,Artificial Intelligence,Python NLP Transformers Text Processing
+
+Data Wrangling,Master data cleaning and preprocessing techniques for data analysis and machine learning,80,Data Science,Pandas NumPy SQL Python
+
+Flutter Development,Build cross-platform mobile apps using Flutter and Dart,90,Mobile Development,Flutter Dart UI Design
+
+Computer Vision,Learn image processing and object detection using OpenCV and deep learning,150,Artificial Intelligence,ML TensorFlow Python
+
+SQL for Data Science,Learn how to query and manipulate data efficiently using SQL,40,Data Science,SQL Database Query Optimization
+
+Python,Learn Python from basics to advanced covering syntax data structures OOP and real-world applications,10,Programming,Python OOP Data Structures Automation
+
+Java,Master Java programming including OOP multithreading and web development,15,Programming,Java OOP Spring Boot
+
+C,Learn the fundamentals of C programming memory management and pointers,5,Programming,C Pointers Memory Management
+
+Rust,Explore Rust programming for system-level development and performance optimization,30,Programming,Rust Concurrency Memory Safety
+
+Go,Master Go programming for scalable and efficient applications,40,Programming,Go Goroutines Web Development
+
+Swift,Learn Swift programming for iOS app development,25,Programming,Swift Xcode UI Design
+
+TypeScript,Enhance JavaScript skills with TypeScript for scalable front-end and back-end development,20,Programming,TypeScript JavaScript Static Typing
+
+Kotlin,Master Kotlin for Android app development and backend applications,35,Programming,Kotlin Android Spring Boot
+
+Ruby,Learn Ruby and the fundamentals of web development with Ruby on Rails,15,Programming,Ruby Rails Web Development
+
+Perl,Understand Perl scripting for automation and text processing,10,Programming,Perl Scripting Regex
+
+Advanced ML,Master advanced machine learning techniques including ensemble learning and hyperparameter tuning,150,Artificial Intelligence,Python DeepLearning Optimization
+
+Web Security,Learn about web security vulnerabilities authentication and encryption techniques,75,Web Development,Security HTTPS Cryptography
+Data Engineering,Understand data pipelines ETL and big data processing,120,Data Science,Python SQL BigData
+iOS Development,Build iOS applications using Swift and UIKit from scratch,80,Mobile Development,Swift UIKit AppDevelopment
+Advanced Java,Deep dive into Java covering JVM internals reflection and concurrency,60,Programming,Java JVM Concurrency
+
+BI with Tableau,Create interactive dashboards and reports using Tableau for business intelligence,90,Data Science,Tableau DataVisualization Analytics
+Embedded Systems,Understand microcontrollers RTOS and firmware development,150,Programming,C EmbeddedSystems Microcontrollers
+Vue.js,Learn Vue.js for building modern web interfaces and single-page applications,40,Web Development,Vue.js JavaScript Frontend
+NLP with TensorFlow,Master NLP techniques including text classification and transformers using TensorFlow,130,Artificial Intelligence,TensorFlow NLP DeepLearning
+Big Data Analytics,Analyze large-scale datasets using Hadoop Spark and distributed computing,140,Data Science,Spark Hadoop BigData
+Mobile UI UX Design,Learn principles of UI UX design for mobile applications,85,Mobile Development,UIUX Design Prototyping
+Rust Web Development,Develop high-performance web applications using Rust and Actix,70,Programming,Rust Actix WebDevelopment
+Full-Stack with Next.js,Master full-stack web development with Next.js React and server-side rendering,110,Web Development,Next.js React SSR
+Reinforcement Learning with Python,Learn Reinforcement Learning concepts including Q-learning and policy gradients,170,Artificial Intelligence,Python ReinforcementLearning DeepLearning
+ETL Pipelines,Build scalable ETL pipelines using Apache Airflow and data processing frameworks,160,Data Science,Airflow SQL DataProcessing
+Firebase Mobile Apps,Create serverless mobile applications using Firebase backend services,95,Mobile Development,Firebase Android iOS
+Microservices with Spring Boot,Develop microservices architectures using Spring Boot and Kubernetes,180,Programming,SpringBoot Microservices Kubernetes
+Cybersecurity for Developers,Learn secure coding practices and common vulnerabilities in web applications,130,Web Development,Security OWASP SecureCoding
+Transformers for NLP,Understand transformer models including BERT GPT and their applications,210,Artificial Intelligence,Transformers NLP DeepLearning
+Data Science with R,Analyze data using R for statistical computing and visualization,125,Data Science,R ggplot DataScience
+AR VR Development,Learn to build augmented and virtual reality applications,175,Mobile Development,Unity ARKit VRDevelopment
+Concurrency in Go,Explore concurrent programming patterns and goroutines in Go,55,Programming,Go Concurrency Parallelism
+Laravel,Master backend development using Laravel for scalable web applications,90,Web Development,Laravel PHP MySQL
+AI Ethics,Understand ethical considerations in AI fairness bias and accountability,70,Artificial Intelligence,AI Ethics ResponsibleAI
+Data Visualization with D3.js,Create interactive data visualizations using D3.js,65,Data Science,D3.js JavaScript Visualization
+React Native,Develop cross-platform mobile applications using React Native,105,Mobile Development,ReactNative JavaScript MobileDevelopment
+Compiler Design,Understand how programming languages are parsed and compiled,145,Programming,CompilerDesign Parsing AST
